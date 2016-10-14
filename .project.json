@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "projectType": [
     "sap.watt.uitools.ide.fiori",
     "com.watt.common.builder.sapui5clientbuild"
@@ -34,4 +35,27 @@
     "blockPush": false,
     "blockPushLevel": "Error"
   }
+=======
+  "mockpreview": {
+    "mockUri": "/sap/opu/odata/sap/EPM_REF_APPS_SHOP_SRV",
+    "loadCustomRequests": true,
+    "loadJSONFiles": true,
+    "metadataFilePath": "model/metadata.xml",
+    "mockRequestsFilePath": ""
+  },
+  "linter": {
+    "ESLintNewApproach": true,
+    "ESLintCustomBaseFile": ".eslintrc",
+    "ESLintRulesDirectory": ".eslintrules",
+    "ESLintPluginName": "",
+    "ESLintPluginFile": ""
+  },
+  "generation": [
+    {
+      "templateId": "fiorireferenceapps.shop",
+      "templateVersion": "1.0.1",
+      "dateTimeStamp": "Fri, 03 Jul 2015 09:16:06 GMT"
+    }
+  ]
+>>>>>>> branch 'master' of https://github.com/webideorg-Test/sap-webide.git
 }

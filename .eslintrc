@@ -1,0 +1,8 @@
+{
+    "globals": {
+        "nw": true,
+        "webide": false,
+        "document": false,
+        "window": false
+    }
+}
